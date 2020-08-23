@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+gunicorn
+itsdangerous
+six
+tqdm
