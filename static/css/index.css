@@ -9,6 +9,7 @@ body {
 
 img {
  display: block;
+ margin-top: 10px;
  margin-left: auto;
  margin-right: auto;
 }
@@ -26,6 +27,10 @@ li {
 
 a {
   text-decoration: none;
+}
+
+.arabicroots :link {
+  color: gray;
 }
 
 nav {
@@ -80,9 +85,14 @@ main {
 }
 
 .hadith1 {
+  font-family: 'Ubuntu Mono', monospace;
   width: 700px;
   border: 2px solid white;
   margin: 10px auto;
+}
+
+.hadith1 p {
+  font-family: 'Ubuntu Mono', monospace;
 }
 
 .aboutMeMain {
